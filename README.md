@@ -1,16 +1,16 @@
-<h1 align="center">Rodrigo Mayer Alves</h1>
 
 <p align="center">
-Backend Developer em formação • Java & Spring Boot • APIs REST
+Full Stack Backend Developer • Java & Spring Boot • REST APIs
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor Backend em formação, focado em **Java e Spring Boot**, com experiência na criação de **APIs REST**, integração com **PostgreSQL**, autenticação com **JWT** e deploy em nuvem.  
+Sou desenvolvedor Backend em formação, com foco em Java e Spring Boot.
+Tenho experiência prática na criação de APIs REST, integração com PostgreSQL, autenticação com Spring Security + JWT, e deploy em nuvem.
 
-Atualmente busco minha primeira oportunidade como **Desenvolvedor Backend Java (Estágio ou Júnior)**.
+Gosto de construir projetos que simulam cenários reais, aplicando boas práticas de código e arquitetura em camadas.
 
 ---
 
