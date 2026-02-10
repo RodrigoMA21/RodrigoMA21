@@ -17,7 +17,7 @@ Gosto de construir projetos que simulam cenários reais, aplicando boas prática
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,git,github,docker,figma" />
 </p>
 
 ---
@@ -35,6 +35,25 @@ https://biblioteca-java-react-1.onrender.com/
 https://github.com/RodrigoMA21/biblioteca-java-react
 
 ---
+
+## 🎨 UX & Product Design
+
+Também aplico conceitos de UX/UI para planejar soluções antes da implementação, criando personas, fluxos, protótipos no Figma e testes de usabilidade.
+
+### 📱 Case Study – App de Planejamento de Carreira
+Projeto completo de UX voltado para organização de metas profissionais.
+
+✔ Personas e jornadas  
+✔ Wireframes  
+✔ Protótipo no Figma  
+✔ Testes com usuários  
+✔ Iterações baseadas em feedback  
+
+🔗 Repositório:  
+https://github.com/RodrigoMA21/career-planner-app-ux-case
+
+---
+
 
 ## 📫 Onde me encontrar
 
