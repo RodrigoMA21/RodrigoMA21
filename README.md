@@ -17,7 +17,7 @@ Gosto de construir projetos que simulam cenários reais, aplicando boas prática
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,git,github,docker,figma,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,git,github,docker,figma,python,flask" />
 </p>
 
 ---
