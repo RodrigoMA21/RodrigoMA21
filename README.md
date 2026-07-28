@@ -14,9 +14,9 @@
 ## 🚀 Sobre mim
 
 
-Sou Desenvolvedor Full Stack com foco em Java, Spring Boot e React.
+Sou Desenvolvedor Full Stack com foco em Java, Spring Boot, Node.js e React.
 
-Tenho experiência no desenvolvimento de APIs REST, aplicações web e bancos de dados relacionais, além de conhecimentos em qualidade de software e testes.
+Tenho experiência no desenvolvimento de APIs REST, aplicações web, sistemas de agendamento e integrações, além de conhecimentos em qualidade de software e testes.
 
 Meu objetivo é construir aplicações escaláveis, organizadas e com boa experiência para o usuário, sempre buscando aplicar boas práticas de desenvolvimento e aprender novas tecnologias.
 
@@ -25,7 +25,7 @@ Meu objetivo é construir aplicações escaláveis, organizadas e com boa experi
 ## 🛠️ Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,react,js,html,css,git,github,docker,python,flask,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,ts,js,tailwind,vite,vitest,postgres,html,css,git,github,docker,python,flask,vscode,figma" />
 </p>
 
 ---
@@ -49,6 +49,28 @@ https://biblioteca-java-react-1.onrender.com/
 
 🔗 **Repositório GitHub:**  
 https://github.com/RodrigoMA21/biblioteca-java-react
+
+---
+
+### 💈 BarberFlow — Sistema de Gestão para Barbearias
+
+Sistema completo com agenda visual, dashboard com gráficos, cartão fidelidade e controle de agendamentos com validação de conflitos.
+
+🛠️ Node.js • Express • React • Tailwind CSS • PostgreSQL • JWT
+
+📂 https://github.com/RodrigoMA21/barberflow
+
+---
+
+### 🔎 JobFinder — Vagas de Tecnologia no Brasil
+
+Plataforma de busca de vagas de tecnologia com sincronização automática de múltiplas fontes (Adzuna, Remotive, Findwork).
+
+🛠️ Python • FastAPI • React • TypeScript • PostgreSQL • Tailwind CSS
+
+🔗 **Acesse online:** https://job-finder-seven-rust.vercel.app/
+
+📂 https://github.com/RodrigoMA21/JobFinder
 
 ---
 
